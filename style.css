@@ -78,7 +78,7 @@ body {
 
 .menu li{
 	display: block;
-	width: 14.2%;
+	/*width: 14.2%;*/
 	text-align: center;
 	border: 2px solid transparent;
 }
@@ -90,7 +90,8 @@ body {
 	font-size: 14px;
 	font-weight: 400;
 	font-weight: 300px;
-	line-height: 36px;
+	line-height: 32px;
+	padding: 0 5px 0 5px;
 }
 body .firstchild a{
   	color: #39a493 !important;
@@ -134,7 +135,7 @@ input[type="text"]::placeholder {
   	font-size: 21px;
   	line-height: 26px;
   	top:50%;
-  	margin-top: -3px;
+  	margin-top: -2px;
   	width: 174px;
 }
 .button {
@@ -1109,7 +1110,7 @@ input[type="number"]{
 	}
 	.menu li{
 		width: auto;
-		margin: 0 4px 0 2px;
+		/*margin: 0 4px 0 2px;*/
 	}
 	.menu a{
 		font-size: 12px;
@@ -1302,7 +1303,7 @@ input[type="number"]{
 		width: 100%;
 	}
 	.menu li{
-		width: 14.2%;
+		/*width: 14.2%;*/
 	}
 	.menu a{
 		font-size: 14px;
